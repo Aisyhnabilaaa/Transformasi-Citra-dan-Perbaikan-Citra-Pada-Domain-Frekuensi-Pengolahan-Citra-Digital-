@@ -3,8 +3,9 @@ Proyek ini menampilkan teknik pengolahan citra menggunakan transformasi Fourier 
 
 ## Prasyarat
 Instal pustaka berikut:
-
-pip install numpy opencv-python matplotlib scipy
+```bash
+  pip install numpy opencv-python matplotlib scipy
+```
 
 ## Fitur Utama
 1. **Transformasi Fourier**: Mengubah gambar ke domain frekuensi dan menampilkan spektrum magnitudo.
